@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ExtensionMethod/bin/Debug/net8.0
+/ExtensionMethod/obj
+/ExtensionMethod.Library/bin/Debug/net8.0
+/ExtensionMethod.Library/obj
+/.vs/ExtensionMethod
